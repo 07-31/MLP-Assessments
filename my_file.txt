@@ -1,0 +1,6 @@
+This is the first line.
+Here is the second line with a number: 12345
+Finally, the third line with some more text and numbers: 67890
+This is an appended fourth line.
+Adding a fifth line with more information.
+And here's a sixth line to finish off the file.
